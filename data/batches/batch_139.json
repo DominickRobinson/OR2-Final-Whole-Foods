@@ -1,0 +1,922 @@
+{
+    "Lemon Dill Sauce, 12 fl oz": {
+        "price": 4.49,
+        "link": "https://www.wholefoodsmarket.com/product/schlotterbeck-foss-lemon-dill-sauce-12-fl-oz-b07cc4nlbh",
+        "nutrition": {
+            "Servings per container": "12 servings per container",
+            "Calories": "100",
+            "Sugars": "Sugars 7g",
+            "Fiber": "Dietary Fiber 0g",
+            "Serving size": "2 tbsp (30 g)",
+            "Amount per servingCalories": "100",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 7g": "9%",
+            "Saturated Fat 1g": "5%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 125mg": "5%",
+            "Total Carbohydrate 8g": "3%",
+            "Dietary Fiber 0g": "0%",
+            "Added Sugars 6g": "12%",
+            "Calcium 10mg": "0%",
+            "Iron 0.2mg": "2%",
+            "Potassium 10mg": "0%",
+            "Vitamin D 0mcg": "0%"
+        },
+        "badges": [
+            "Dairy-Free"
+        ]
+    },
+    "Smooth Silk Conditioner Travel, 2 fl oz": {
+        "price": 2.69,
+        "link": "https://www.wholefoodsmarket.com/product/giovanni-cosmetics-smooth-silk-conditioner-travel-2-fl-oz-b000q5uozu",
+        "nutrition": {},
+        "badges": [
+            "Paleo-Friendly",
+            "Vegan",
+            "Vegetarian",
+            "Whole Foods Diet"
+        ]
+    },
+    "Rosewater, 4 fl oz": {
+        "price": 7.69,
+        "link": "https://www.wholefoodsmarket.com/product/heritage-store-rosewater-4-fl-oz-b005p0xrgy",
+        "nutrition": {},
+        "badges": [
+            "Paleo-Friendly",
+            "Vegan",
+            "Vegetarian",
+            "Whole Foods Diet"
+        ]
+    },
+    "Sauce Tomato Signature Spicy, 24 oz": {
+        "price": 9.49,
+        "link": "https://www.wholefoodsmarket.com/product/vesper-brothers-sauce-tomato-signature-spicy-24-oz-b077zxdqcg",
+        "nutrition": {
+            "Servings per container": "6 servings per container",
+            "Calories": "60",
+            "Sugars": "Sugars 3g",
+            "Fiber": "Dietary Fiber 1g",
+            "Serving size": "0.5 cup (125 g)",
+            "Amount per servingCalories": "60",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 4g": "5%",
+            "Saturated Fat 0.5g": "2.5%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 290mg": "13%",
+            "Total Carbohydrate 5g": "1.8%",
+            "Dietary Fiber 1g": "3.6%",
+            "Added Sugars 0g": "0%",
+            "Calcium 26mg": "2%",
+            "Iron 0.36mg": "2%",
+            "Potassium 282mg": "6%",
+            "Vitamin D 0mcg": "0%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Gluten-Free",
+            "Keto-Friendly",
+            "Kosher*",
+            "Paleo-Friendly",
+            "Sugar-Conscious",
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    "Exfoliating Hydro Glove, 1 each": {
+        "price": 7.49,
+        "link": "https://www.wholefoodsmarket.com/product/earth-therapeutics-exfoliating-hydro-glove-1-each-b000mubr96",
+        "nutrition": {},
+        "badges": []
+    },
+    "Fiesty Fish Rub, 5 oz": {
+        "price": 6.49,
+        "link": "https://www.wholefoodsmarket.com/product/moms-gourmet-fiesty-fish-rub-5-oz-b00rm5npnu",
+        "nutrition": {
+            "Servings per container": "118 servings per container",
+            "Calories": "0",
+            "Serving size": "0.25 tsp (1.2 g)",
+            "Amount per servingCalories": "0",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 0g": "0%",
+            "Sodium 125mg": "5%",
+            "Total Carbohydrate 0g": "0%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Gluten-Free",
+            "Paleo-Friendly",
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    "Cranberry Almond Crisps, 4 oz": {
+        "price": 6.99,
+        "link": "https://www.wholefoodsmarket.com/product/maine-crisp-cranberry-almond-crisps-4-oz-b08586l6kp",
+        "nutrition": {
+            "Servings per container": "7 servings per container",
+            "Calories": "60",
+            "Sugars": "Sugars 4g",
+            "Fiber": "Dietary Fiber 1g",
+            "Serving size": "5 pieces (16 g)",
+            "Amount per servingCalories": "60",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 2.5g": "3.2%",
+            "Saturated Fat 0g": "0%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 75mg": "3.3%",
+            "Total Carbohydrate 10g": "3.6%",
+            "Dietary Fiber 1g": "3.6%",
+            "Added Sugars 3g": "6%",
+            "Calcium 20mg": "2%",
+            "Copper 0.04mg": "4%",
+            "Iron 0.6mg": "4%",
+            "Manganese 0.02mg": "0%",
+            "Potassium 50mg": "2%",
+            "Vitamin D 0.1mcg": "0%"
+        },
+        "badges": [
+            "Gluten-Free"
+        ]
+    },
+    "Elephant Garlic": {
+        "price": 4.69,
+        "link": "https://www.wholefoodsmarket.com/product/produce-elephant-garlic-b07nqynhbr",
+        "nutrition": {
+            "Servings per container": "28 servings per container",
+            "Calories": "4.5",
+            "Sugars": "Sugars 0.03g",
+            "Fiber": "Fiber 0.06g",
+            "Serving size": "1 tsp (3 g)",
+            "Amount per servingCalories": "4.5",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 0.01g": "0.01%",
+            "Sat Fat 0g": "0%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 0.51mg": "0.02%",
+            "Carbohydrates 0.99g": "0.36%",
+            "Fiber 0.06g": "0.21%",
+            "Zinc 0.03mg": "0%",
+            "Vitamin K 0.05\u00b5g": "0%",
+            "Vitamin E 0IU": "0%",
+            "Vitamin D 0IU": "0%",
+            "Vitamin C 0.94mg": "2%",
+            "Vitamin B6 0.04mg": "2%",
+            "Vitamin B12 0\u00b5g": "0%",
+            "Vitamin A 0.27IU": "0%",
+            "Thiamin 0.01mg": "0%",
+            "Selenium 0.43\u00b5g": "0%",
+            "Riboflavin 0mg": "0%",
+            "Potassium 12.03mg": "0%",
+            "Phosphorus 4.59mg": "0%",
+            "Pantothenic Acid 0.02mg": "0%",
+            "Niacin 0.02mg": "0%",
+            "Manganese 0.05mg": "2%",
+            "Magnesium 0.75mg": "0%",
+            "Iron 0.05mg": "0%",
+            "Folate 0.09\u00b5g": "0%",
+            "Copper 0.01mg": "2%",
+            "Calcium 5.43mg": "0%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Engine 2",
+            "Gluten-Free",
+            "Paleo-Friendly",
+            "Sugar-Conscious",
+            "Vegan",
+            "Vegetarian",
+            "Whole Foods Diet",
+            "Keto-Friendly",
+            "Organic"
+        ]
+    },
+    "Tamari Soy Sauce, 10 fl oz": {
+        "price": 4.99,
+        "link": "https://www.wholefoodsmarket.com/product/kikkoman-tamari-soy-sauce-10-fl-oz-b01dz6f6ya",
+        "nutrition": {
+            "Servings per container": "20 servings per container",
+            "Calories": "15",
+            "Sugars": "Sugars 1g",
+            "Serving size": "1 tbsp (15 ml)",
+            "Amount per servingCalories": "15",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 0g": "0%",
+            "Sodium 490mg": "20%",
+            "Total Carbohydrate 2g": "0.67%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Gluten-Free",
+            "Low-Fat*"
+        ]
+    },
+    "Roasted Peppers, 7 oz": {
+        "price": 3.99,
+        "link": "https://www.wholefoodsmarket.com/product/cento-roasted-peppers-7-oz-b00cmu6p46",
+        "nutrition": {
+            "Servings per container": "7 servings per container",
+            "Calories": "5",
+            "Sugars": "Sugars 1g",
+            "Fiber": "Dietary Fiber 0g",
+            "Serving size": "2 tbsp (30 g)",
+            "Amount per servingCalories": "5",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 0g": "0%",
+            "Saturated Fat 0g": "0%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 80mg": "3.5%",
+            "Total Carbohydrate 2g": "0.73%",
+            "Dietary Fiber 0g": "0%",
+            "Added Sugars 0g": "0%",
+            "Calcium 0mg": "0%",
+            "Iron 0mg": "0%",
+            "Potassium 0mg": "0%",
+            "Vitamin D 0mcg": "0%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Gluten-Free",
+            "Keto-Friendly",
+            "Kosher*",
+            "Sugar-Conscious",
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    "Truffle And Cheese Seasoning, 2.11 oz": {
+        "price": 14.99,
+        "link": "https://www.wholefoodsmarket.com/product/sabatino-tartufi-truffle-and-cheese-seasoning-211-oz-b07vyztqqv",
+        "nutrition": {
+            "Servings per container": "30 servings per container",
+            "Calories": "5",
+            "Sugars": "Sugars <1g",
+            "Fiber": "Dietary Fiber 0g",
+            "Serving size": "0.25 tsp (2 g)",
+            "Amount per servingCalories": "5",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 0.5g": "1%",
+            "Saturated Fat 0g": "0%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 80mg": "3%",
+            "Total Carbohydrate 1g": "0%",
+            "Dietary Fiber 0g": "0%",
+            "Added Sugars 0g": "0%",
+            "Protein 0g": "0%"
+        },
+        "badges": [
+            "Gluten-Free",
+            "Sugar-Conscious",
+            "Vegetarian"
+        ]
+    },
+    "Curl Cleansing Shampoo, 12 fl oz": {
+        "price": 6.39,
+        "link": "https://www.wholefoodsmarket.com/product/purezero-curl-cleansing-shampoo-12-fl-oz-b09bggst8c",
+        "nutrition": {},
+        "badges": []
+    },
+    "Tripel Trappist Ale, 11.2 fl oz": {
+        "price": 5.49,
+        "link": "https://www.wholefoodsmarket.com/product/westmalle-tripel-trappist-ale-112-fl-oz-b07q6f3tbn",
+        "nutrition": {},
+        "badges": []
+    },
+    "African, 12 ounce": {
+        "price": 13.99,
+        "link": "https://www.wholefoodsmarket.com/product/royal-mile-coffee-african-12-ounce-b07d6r41p8",
+        "nutrition": {},
+        "badges": []
+    },
+    "Travel Tin, Lavender, 2oz, 1 candle": {
+        "price": 4.99,
+        "link": "https://www.wholefoodsmarket.com/product/goodlight-travel-tin-lavender-2oz-1-candle-b01b8fbv1m",
+        "nutrition": {},
+        "badges": []
+    },
+    "15x11 Kitchen Series Board": {
+        "price": 33.99,
+        "link": "https://www.wholefoodsmarket.com/product/epicurean-15x11-kitchen-series-board-b0008f6st4",
+        "nutrition": {},
+        "badges": []
+    },
+    "Organic Navel Orange Bag": {
+        "price": 6.49,
+        "link": "https://www.wholefoodsmarket.com/product/natures-pick-organic-navel-orange-bag-b07hk9j37k",
+        "nutrition": {
+            "Calories": "80",
+            "Sugars": "Sugars 14g",
+            "Fiber": "Dietary Fiber 3g",
+            "Serving size": "1 medium orange (154 g)",
+            "Amount per servingCalories": "80",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 0g": "0%",
+            "Saturated Fat 0g": "0%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 0mg": "0%",
+            "Total Carbohydrate 19g": "6%",
+            "Dietary Fiber 3g": "12%",
+            "Calcium 60mg": "6%",
+            "Iron 0mg": "0%",
+            "Potassium 250mg": "7%",
+            "Vitamin A 100IU": "2%",
+            "Vitamin C 78mg": "130%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Gluten-Free",
+            "Organic",
+            "Paleo-Friendly",
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    "Food Color Multipack, 0.28 oz": {
+        "price": 10.29,
+        "link": "https://www.wholefoodsmarket.com/product/supernatural-kitchen-food-color-multipack-028-oz-b076pskv1z",
+        "nutrition": {},
+        "badges": [
+            "Dairy-Free",
+            "Gluten-Free",
+            "Paleo-Friendly",
+            "Vegan",
+            "Vegetarian",
+            "Whole Foods Diet"
+        ]
+    },
+    "Organic Holy Basil Essential Oil, 0.25 fl oz": {
+        "price": 16.29,
+        "link": "https://www.wholefoodsmarket.com/product/aura-cacia-organic-holy-basil-essential-oil-025-fl-oz-b07dbtrvdg",
+        "nutrition": {},
+        "badges": [
+            "Paleo-Friendly",
+            "Vegan",
+            "Vegetarian",
+            "Whole Foods Diet",
+            "Organic"
+        ]
+    },
+    "Macroni Pasta, 16 oz": {
+        "price": 3.99,
+        "link": "https://www.wholefoodsmarket.com/product/loi-macroni-pasta-16-oz-b07drgjf2k",
+        "nutrition": {},
+        "badges": [
+            "Dairy-Free",
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    "Fruit Spreads Orange, 12 oz": {
+        "price": 8.69,
+        "link": "https://www.wholefoodsmarket.com/product/tiptree-fruit-spreads-orange-12-oz-b004o750sw",
+        "nutrition": {
+            "Servings per container": "24 servings per container",
+            "Calories": "40",
+            "Sugars": "Sugars 9g",
+            "Fiber": "Fiber 0g",
+            "Serving size": "1 tbsp (14 g)",
+            "Amount per servingCalories": "40",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 0g": "0%",
+            "Sat Fat 0g": "0%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 0mg": "0%",
+            "Carbohydrates 9g": "3.3%",
+            "Fiber 0g": "0%",
+            "Added Sugar 9g": "18%",
+            "Vitamin D 0mcg": "0%",
+            "Potassium 0mg": "0%",
+            "Iron 0mg": "0%",
+            "Calcium 13mg": "1%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Kosher*"
+        ]
+    },
+    "12ct Granola + Coconut MacroBar, 24 oz": {
+        "price": 32.49,
+        "link": "https://www.wholefoodsmarket.com/product/gomacro-12ct-granola-coconut-macrobar-24-oz-b00ginu18o",
+        "nutrition": {
+            "Servings per container": "12 servings per container",
+            "Calories": "250",
+            "Sugars": "Sugars 10g",
+            "Fiber": "Fiber 4g",
+            "Serving size": "1 bar (57 g)",
+            "Amount per servingCalories": "250",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 11g": "14%",
+            "Sat Fat 4.5g": "23%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 10mg": "0.43%",
+            "Carbohydrates 32g": "12%",
+            "Fiber 4g": "14%",
+            "Added Sugar 9g": "18%",
+            "Vitamin D 0mcg": "0%",
+            "Potassium 185mg": "4%",
+            "Iron 2mg": "10%",
+            "Calcium 35mg": "2%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    "Organic Pacific Peppermint, 1 oz": {
+        "price": 9.29,
+        "link": "https://www.wholefoodsmarket.com/product/five-mountains-organic-pacific-peppermint-1-oz-b00matgfgm",
+        "nutrition": {},
+        "badges": [
+            "Gluten-Free",
+            "Organic"
+        ]
+    },
+    "Non-Stick Pro Cooling and Baking Rack, 1 each": {
+        "price": 16.99,
+        "link": "https://www.wholefoodsmarket.com/product/oxo-nonstick-pro-cooling-and-baking-rack-1-each-b076jn4b2j",
+        "nutrition": {},
+        "badges": []
+    },
+    "Organic Cauliflower Flour, 7 oz": {
+        "price": 8.97,
+        "link": "https://www.wholefoodsmarket.com/product/navitas-organics-organic-cauliflower-flour-7-oz-b092gghy3x",
+        "nutrition": {
+            "Servings per container": "13 servings per container",
+            "Calories": "60",
+            "Sugars": "Sugars 4g",
+            "Fiber": "Dietary Fiber 6g",
+            "Serving size": "2 tbsp (15 g)",
+            "Amount per servingCalories": "60",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 0g": "0%",
+            "Saturated Fat 0g": "0%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 40mg": "2%",
+            "Total Carbohydrate 11g": "4%",
+            "Dietary Fiber 6g": "21%",
+            "Added Sugars 0g": "0%",
+            "Calcium 76mg": "6%",
+            "Iron 1mg": "6%",
+            "Potassium 440mg": "10%",
+            "Vitamin D 0mcg": "0%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Gluten-Free",
+            "Keto-Friendly",
+            "Kosher*",
+            "Organic",
+            "Paleo-Friendly",
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    "Menage White Blend, 750 ml": {
+        "price": 13.99,
+        "link": "https://www.wholefoodsmarket.com/product/menage-a-trois-menage-white-blend-750-ml-b0016h50q0",
+        "nutrition": {},
+        "badges": []
+    },
+    "Organic Sea Mist Sea Salt Spray With Lavender, 4.2 fl oz": {
+        "price": 28.49,
+        "link": "https://www.wholefoodsmarket.com/product/john-masters-organic-sea-mist-sea-salt-spray-with-lavender-42-fl-oz-b07nhyzbrd",
+        "nutrition": {},
+        "badges": [
+            "Paleo-Friendly",
+            "Vegan",
+            "Organic"
+        ]
+    },
+    "Pink Hydro Body Sponge, 1 each": {
+        "price": 4.29,
+        "link": "https://www.wholefoodsmarket.com/product/earth-therapeutics-pink-hydro-body-sponge-1-each-b072jkgzs8",
+        "nutrition": {},
+        "badges": []
+    },
+    "Silicone Basting Brush, 1 each": {
+        "price": 11.99,
+        "link": "https://www.wholefoodsmarket.com/product/oxo-silicone-basting-brush-1-each-b000hd7fj4",
+        "nutrition": {},
+        "badges": []
+    },
+    "Flittens, 1 each": {
+        "price": 29,
+        "link": "https://www.wholefoodsmarket.com/product/andes-gifts-flittens-1-each-b07g32nnph",
+        "nutrition": {},
+        "badges": []
+    },
+    "Stellar Gaze Mascara, 0.12 oz": {
+        "price": 7.99,
+        "link": "https://www.wholefoodsmarket.com/product/pacifica-stellar-gaze-mascara-012-oz-b07zlc8s58",
+        "nutrition": {},
+        "badges": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    "Chamomile Lavender Tea, 1.6 oz": {
+        "price": 10.49,
+        "link": "https://www.wholefoodsmarket.com/product/paromi-tea-chamomile-lavender-tea-16-oz-b00bk70x36",
+        "nutrition": {},
+        "badges": [
+            "Dairy-Free",
+            "Engine 2",
+            "Kosher*",
+            "Paleo-Friendly",
+            "Vegan",
+            "Vegetarian",
+            "Whole Foods Diet",
+            "Keto-Friendly",
+            "Organic"
+        ]
+    },
+    "Goji, Coconut And Acai Smoothie Booster, 5.7 oz": {
+        "price": 14.29,
+        "link": "https://www.wholefoodsmarket.com/product/blender-bombs-goji-coconut-and-acai-smoothie-booster-57-oz-b09h84c1j5",
+        "nutrition": {
+            "Servings per container": "6 servings per container",
+            "Calories": "150",
+            "Sugars": "Sugars 8g",
+            "Fiber": "Dietary Fiber 3g",
+            "Serving size": "1 piece (32 g)",
+            "Amount per servingCalories": "150",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 10g": "13%",
+            "Saturated Fat 1.5g": "7%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 35mg": "1%",
+            "Total Carbohydrate 13g": "5%",
+            "Dietary Fiber 3g": "11%",
+            "Added Sugars <1g": "2%",
+            "Vitamin D 0mcg": "0%",
+            "Potassium 210mg": "4%",
+            "Iron 30mg": "4%",
+            "Calcium 1mg": "6%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Gluten-Free",
+            "Paleo-Friendly",
+            "Vegetarian"
+        ]
+    },
+    "Black Clay Charcoal Soap": {
+        "price": 1.27,
+        "link": "https://www.wholefoodsmarket.com/product/sappo-hill-soapworks-black-clay-charcoal-soap-b07952r2ch",
+        "nutrition": {},
+        "badges": []
+    },
+    "Pizza Snack, 75 oz": {
+        "price": 8.39,
+        "link": "https://www.wholefoodsmarket.com/product/maspanadas-pizza-snack-75-oz-b07z9y8kgq",
+        "nutrition": {
+            "Servings per container": "2.5 servings per container",
+            "Calories": "480",
+            "Sugars": "Sugars 5g",
+            "Fiber": "Dietary Fiber 3g",
+            "Serving size": "3 empanadas (80 g)",
+            "Amount per servingCalories": "480",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 21g": "27%",
+            "Saturated Fat 6g": "30%",
+            "Cholesterol 25mg": "8%",
+            "Sodium 770mg": "33%",
+            "Total Carbohydrate 57g": "21%",
+            "Dietary Fiber 3g": "11%",
+            "Added Sugars 0g": "0%",
+            "Calcium 310mg": "25%",
+            "Iron 4mg": "20%",
+            "Potassium 460mg": "10%",
+            "Vitamin D 0.1mcg": "0%"
+        },
+        "badges": [
+            "Sugar-Conscious",
+            "Vegetarian"
+        ]
+    },
+    "Face Serum, 1 each": {
+        "price": 26.99,
+        "link": "https://www.wholefoodsmarket.com/product/upcircle-face-serum-1-each-b07ndwrt7w",
+        "nutrition": {},
+        "badges": []
+    },
+    "Organic Chocolate Mint Electrolyte Sports Drink, 16.9 fl oz": {
+        "price": 2.59,
+        "link": "https://www.wholefoodsmarket.com/product/nooma-organic-chocolate-mint-electrolyte-sports-drink-169-fl-oz-b00uvagdbe",
+        "nutrition": {
+            "Servings per container": "1 servings per container",
+            "Calories": "30",
+            "Sugars": "Sugars 5g",
+            "Serving size": "1 carton",
+            "Amount per servingCalories": "30",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 0g": "0%",
+            "Sodium 110mg": "4.8%",
+            "Total Carbohydrate 7g": "2.6%",
+            "Added Sugars 0g": "0%",
+            "Potassium 330mg": "8%",
+            "Calcium 30mg": "2%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Gluten-Free",
+            "Organic",
+            "Paleo-Friendly",
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    "Chicken Recipe Dog Food, 11 lbs": {
+        "price": 41.49,
+        "link": "https://www.wholefoodsmarket.com/product/buckley-pet-chicken-recipe-dog-food-11-lbs-b083x7m4xb",
+        "nutrition": {},
+        "badges": []
+    },
+    "Key Lime Juice, 12 fl oz": {
+        "price": 4.99,
+        "link": "https://www.wholefoodsmarket.com/product/nellie-joes-key-lime-juice-12-fl-oz-b078wgbgss",
+        "nutrition": {
+            "Servings per container": "72 servings per container",
+            "Calories": "0",
+            "Sugars": "Sugars 0g",
+            "Fiber": "Fiber 0g",
+            "Serving size": "1 tsp (5 ml)",
+            "Amount per servingCalories": "0",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 0g": "0%",
+            "Sat Fat 0g": "0%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 0mg": "0%",
+            "Carbohydrates 0g": "0%",
+            "Fiber 0g": "0%",
+            "Added Sugar 0g": "0%",
+            "Vitamin D 0mcg": "0%",
+            "Potassium 98mg": "2%",
+            "Iron 0mg": "0%",
+            "Calcium 0mg": "0%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Paleo-Friendly",
+            "Sugar-Conscious",
+            "Vegan",
+            "Vegetarian",
+            "Whole Foods Diet"
+        ]
+    },
+    "Peppermint Complete Care Toothpaste, 5.29 oz": {
+        "price": 7.49,
+        "link": "https://www.wholefoodsmarket.com/product/himalaya-peppermint-complete-care-toothpaste-529-oz-b01cwyerms",
+        "nutrition": {},
+        "badges": [
+            "Gluten-Free"
+        ]
+    },
+    "Banana Bread Bars, 1 each": {
+        "price": 21.99,
+        "link": "https://www.wholefoodsmarket.com/product/larabar-banana-bread-bars-1-each-b071r5mwbs",
+        "nutrition": {
+            "Servings per container": "16 servings per container",
+            "Calories": "200",
+            "Sugars": "Sugars 17g",
+            "Fiber": "Fiber 4g",
+            "Serving size": "1 bar (45 g)",
+            "Amount per servingCalories": "200",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 10g": "13%",
+            "Sat Fat 1g": "5%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 0mg": "0%",
+            "Carbohydrates 24g": "9%",
+            "Fiber 4g": "14%",
+            "Added Sugar 0g": "0%",
+            "Vitamin D 0mcg": "0%",
+            "Potassium 360mg": "8%",
+            "Iron 0.9mg": "6%",
+            "Calcium 50mg": "4%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Gluten-Free",
+            "Kosher*",
+            "Paleo-Friendly",
+            "Vegan",
+            "Vegetarian",
+            "Whole Foods Diet"
+        ]
+    },
+    "Cook N Carry Square Cake Pan With Lid, 3 cake pans": {
+        "price": 3.69,
+        "link": "https://www.wholefoodsmarket.com/product/handi-foil-cook-n-carry-square-cake-pan-with-lid-3-cake-pans-b002bx9et2",
+        "nutrition": {},
+        "badges": [
+            "Kosher*"
+        ]
+    },
+    "Hydro-shine Lip Gloss Santorini, 0.15 fl oz": {
+        "price": 14.99,
+        "link": "https://www.wholefoodsmarket.com/product/mineral-fusion-hydroshine-lip-gloss-santorini-015-fl-oz-b08mnp89dp",
+        "nutrition": {},
+        "badges": []
+    },
+    "Acorn Squash": {
+        "price": 1.49,
+        "link": "https://www.wholefoodsmarket.com/product/produce-acorn-squash-b000p6l5h6",
+        "nutrition": {
+            "Calories": "56",
+            "Sugars": "Sugars 0g",
+            "Fiber": "Fiber 2.1g",
+            "Serving size": "1 cup (chopped) (140 g)",
+            "Amount per servingCalories": "56",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 0.14g": "0.18%",
+            "Sat Fat 0.03g": "0.15%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 4.2mg": "0.18%",
+            "Carbohydrates 15g": "5%",
+            "Fiber 2.1g": "8%",
+            "Zinc 0.18mg": "2%",
+            "Vitamin D 0mcg": "0%",
+            "Vitamin C 15mg": "15%",
+            "Vitamin B6 0.22mg": "15%",
+            "Vitamin B12 0mcg": "0%",
+            "Vitamin A 514mcg": "60%",
+            "Thiamin 0.2mg": "15%",
+            "Selenium 0.7mcg": "2%",
+            "Riboflavin 0.01mg": "2%",
+            "Potassium 486mg": "10%",
+            "Phosphorus 50mg": "4%",
+            "Pantothenic Acid 0.56mg": "10%",
+            "Niacin 0.98mg": "6%",
+            "Manganese 0.23mg": "10%",
+            "Magnesium 45mg": "10%",
+            "Iron 0.98mg": "6%",
+            "Folic Acid 0mcg": "0%",
+            "Folate 24mcg": "6%",
+            "Copper 0.09mg": "10%",
+            "Calcium 46mg": "4%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Engine 2",
+            "Gluten-Free",
+            "Paleo-Friendly",
+            "Sugar-Conscious",
+            "Vegan",
+            "Vegetarian",
+            "Whole Foods Diet"
+        ]
+    },
+    "Lightly Salted Potato Chips, 2 ounce": {
+        "price": 1.29,
+        "link": "https://www.wholefoodsmarket.com/product/route-11-potato-chips-lightly-salted-potato-chips-2-ounce-b00xmzbjqe",
+        "nutrition": {
+            "Servings per container": "2 servings per container",
+            "Calories": "150",
+            "Sugars": "Sugars 0g",
+            "Fiber": "Fiber 1g",
+            "Serving size": "1 oz (28 g)",
+            "Amount per servingCalories": "150",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 8g": "12%",
+            "Sat Fat 0.5g": "2.5%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 90mg": "3.8%",
+            "Carbohydrates 16g": "5%",
+            "Fiber 1g": "4%",
+            "Vitamin C 12mg": "20%",
+            "Vitamin A 0IU": "0%",
+            "Potassium 400mg": "11%",
+            "Iron 0.36mg": "2%",
+            "Calcium 0mg": "0%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Gluten-Free",
+            "Sugar-Conscious",
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    "Sparkling Natural Mineral Water 12pk": {
+        "price": 33.99,
+        "link": "https://www.wholefoodsmarket.com/product/sanpellegrino-sparkling-natural-mineral-water-12pk-b000whrc2k",
+        "nutrition": {
+            "Servings per container": "5 servings per container",
+            "Calories": "0",
+            "Sugars": "Sugars 0g",
+            "Serving size": "8 fl oz (237 ml)",
+            "Amount per servingCalories": "0",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 0g": "0%",
+            "Sodium 10mg": "0.43%",
+            "Carbohydrates 0g": "0%",
+            "Calcium 52mg": "4%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Engine 2",
+            "Paleo-Friendly",
+            "Sugar-Conscious",
+            "Vegan",
+            "Vegetarian",
+            "Whole Foods Diet",
+            "Keto-Friendly"
+        ]
+    },
+    "Apple Butter, 1 pint": {
+        "price": 9.49,
+        "link": "https://www.wholefoodsmarket.com/product/dutch-country-kettles-apple-butter-1-pint-b07jmt6wv6",
+        "nutrition": {
+            "Servings per container": "31 servings per container",
+            "Calories": "50",
+            "Sugars": "Sugars 12g",
+            "Fiber": "Fiber 0g",
+            "Serving size": "1 tbsp (17 g)",
+            "Amount per servingCalories": "50",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 0g": "0%",
+            "Sat Fat 0g": "0%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 0mg": "0%",
+            "Carbohydrates 12g": "4%",
+            "Fiber 0g": "0%",
+            "Vitamin C 0mg": "0%",
+            "Vitamin A 0IU": "0%",
+            "Iron 0mg": "0%",
+            "Calcium 0mg": "0%"
+        },
+        "badges": [
+            "Dairy-Free"
+        ]
+    },
+    "Organic Garlic Herb Vegetable Seasoning Mix, 0.71 oz": {
+        "price": 1.69,
+        "link": "https://www.wholefoodsmarket.com/product/simply-organic-organic-garlic-herb-vegetable-seasoning-mix-071-oz-b00mqfv8du",
+        "nutrition": {
+            "Servings per container": "4 servings per container",
+            "Calories": "15",
+            "Sugars": "Sugars 0g",
+            "Fiber": "Dietary Fiber 1g",
+            "Serving size": "2 tsp (5 g)",
+            "Amount per servingCalories": "15",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 0g": "0%",
+            "Saturated Fat 0g": "0%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 200mg": "9%",
+            "Total Carbohydrate 3g": "1%",
+            "Dietary Fiber 1g": "4%",
+            "Added Sugars 0g": "0%",
+            "Calcium 14mg": "2%",
+            "Iron 1mg": "6%",
+            "Potassium 72mg": "2%",
+            "Vitamin D 0mcg": "0%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Keto-Friendly",
+            "Organic",
+            "Sugar-Conscious",
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    "Organic Vanilla White Chocolate Chip Cookies, 6.3 oz": {
+        "price": 6.99,
+        "link": "https://www.wholefoodsmarket.com/product/steve-andys-organic-vanilla-white-chocolate-chip-cookies-63-oz-b07cgrw9qh",
+        "nutrition": {},
+        "badges": []
+    },
+    "Organic Peanut Butter Hemp & Flax Stash Bar, 2.2 oz": {
+        "price": 2.99,
+        "link": "https://www.wholefoodsmarket.com/product/kates-real-food-organic-peanut-butter-hemp-flax-stash-bar-22-oz-b07rb7h794",
+        "nutrition": {
+            "Servings per container": "2 servings per container",
+            "Calories": "120",
+            "Sugars": "Sugars 7g",
+            "Fiber": "Dietary Fiber 2g",
+            "Serving size": "0.5 bar (31 g)",
+            "Amount per servingCalories": "120",
+            "% Daily Value *": "% Daily Value *",
+            "Total Fat 6g": "8%",
+            "Saturated Fat 1g": "5%",
+            "Cholesterol 0mg": "0%",
+            "Sodium 70mg": "3%",
+            "Total Carbohydrate 18g": "7%",
+            "Dietary Fiber 2g": "7%",
+            "Added Sugars 6g": "12%",
+            "Vitamin D 0mcg": "0%",
+            "Potassium 20mg": "0%",
+            "Iron 40mg": "220%",
+            "Calcium 20mg": "2%"
+        },
+        "badges": [
+            "Dairy-Free",
+            "Gluten-Free",
+            "Organic",
+            "Vegetarian"
+        ]
+    }
+}
